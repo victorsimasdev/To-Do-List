@@ -7,3 +7,10 @@
 <p align="center">Homepage</p>
 
 ![homepage](https://github.com/victorsimasdev/To-Do-List/assets/105087475/6b6d179d-63e8-4202-b093-02dae87aa630)
+
+<h1 align="center">
+    Features 
+</h1>
+
+<li>Create, list, update, remove task</li>
+<li>Mark a task as done or undone</li>
